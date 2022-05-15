@@ -1,5 +1,3 @@
-edit test
-
 GROUPS = ['traxx', 'xenot', 'viviz', 'tribe', 'stayc', 'romeo', 'justb', 'izone', 'creal', 'blady', 'elris', 'rania', 'trcng', 'twice', 'elast', 'loona', 'onewe', 'oneus', 'ateez', 'aespa', 'missa', 'gidle', 'apink', 'beast', 'astro', 'nuest', 'ukiss', 'mblaq', 'april', 'spica', 'speed']
 
 GROUP_NAME = ['TraxX', 'Xeno-T', 'Viviz', 'Tri.be', 'Stayc', 'Romeo', 'Just B', 'IZ*ONE', 'C-Real', 'Blady', 'Elris', 'Rania', 'TRCNG', 'Twice', 'E\'last', 'Loona', 'Onewe', 'Oneus', 'ATEEZ', 'Aespa', 'Miss A', '(G)I-DLE', 'APink', 'Beast', 'Astro', 'Nu\'est', 'U-Kiss', 'MBLAQ', 'April', 'Spica', 'Speed']
